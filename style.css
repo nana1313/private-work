@@ -193,7 +193,7 @@ header {
     display: inline-block;
     vertical-align: top;
   }
-  .main-dash {
+.main-dash {
     font-family: "Poppins", sans-serif;
     font-size: 24px;
     font-weight: 700;
@@ -201,7 +201,7 @@ header {
     margin-top: 30px;
     margin-left: 65px;
   }
-  .views {
+.views {
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -211,10 +211,10 @@ header {
     margin-left: 65px;
     margin-top: 40px;
   }
-  .black-tabs {
+.black-tabs {
     margin-left: 15px;
   }
-  .first {
+.first {
     display: inline-block;
     background-color: black;
     border-radius: 25px;
@@ -224,7 +224,7 @@ header {
     margin-top: 10px;
     vertical-align: middle;
   }
-  .number {
+.number {
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-size: 36px;
@@ -233,7 +233,7 @@ header {
     width: 115px;
     height: 54px;
   }
-  .date {
+.date {
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-size: 12px;
@@ -243,7 +243,7 @@ header {
     margin-left: 90px;
     margin-top: -32px;
   }
-  .table-name {
+.table-name {
     font-family: "Poppins", sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -262,8 +262,8 @@ header {
     width: 788px;
     height: 65px;
   }
-  .first-title {
-    display: inline-block;
+.first-title {
+   display: inline-block;
     font-family: "Poppins", sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -272,7 +272,7 @@ header {
     width: 140px;
     height: 27px;
   }
-  .second-title {
+.second-title {
     display: inline-block;
     font-family: "Poppins", sans-serif;
     font-size: 18px;
@@ -298,4 +298,52 @@ header {
     color: #4f4f4f;
     margin-left: 493px;
   }
-  
+.main-set {
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    color: #515151;
+    width: 102px;
+    height: 36px;
+    font-weight: 700;
+    margin-top: 65px;
+    margin-left: 65px;
+  }
+table {
+    border-spacing: 31px;
+    margin-left: 35px;
+    margin-top: 100px;
+  }
+  td {
+    border: 1px solid black;
+    width: 400px;
+    height: 75px;
+  }
+.first-row {
+    margin-top: -6px;
+  }
+  .table-title {
+    display: inline-block;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  color: #4f4f4f;
+  margin-left: 35px;
+  width: 140px;
+  height: 27px;
+}
+input {
+    width: 40px;
+    height: 40px;
+    vertical-align: middle;
+    margin-left: 155px;
+  }
+  .save-button {
+    width: 150px;
+    height: 75px;
+    background-color: #333333;
+    color: white;
+    font-size: 24px;
+    font-family: "Poppins", sans-serif;
+    margin-left: 65px;
+    margin-top: 15px;
+  }
